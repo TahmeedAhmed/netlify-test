@@ -1,0 +1,17 @@
+#body{
+    position: absolute;
+    border-style: dashed;
+    left: 0px;
+    top: 40px;
+    width: 100%;
+}
+
+#firstImage{
+    background-image: url("images/pic1.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+h3{
+    color: blue;
+}
